@@ -1,17 +1,16 @@
 # Projet Youtube Version 1.0
 <img src= "ProjetFormationYoutube.png" width="150"/>
 
-<p>Mini Projet : Mon Tamagotchi Virtuel
-Bienvenue dans mon petit projet personnel ! J’ai commencé à développer une version simplifiée d’un Tamagotchi — ce petit animal virtuel qu’on aimait tant dans les années 90/2000. L’idée : créer un compagnon numérique avec lequel on peut interagir, le nourrir, jouer avec lui et veiller à son bien-être.<br><br>
+<p>Projet de formation : Petite page Youtube
+dans le cadre de ma formation, j'ai eu à faire une petite page d'accueil dans le style de YouTube pour mettre nos connaissances en pratique,
+injecter du code HTML à partir de JavaScript avec des "function", et pouvoir faire des recherches<br><br>
 
 
-  Ce projet est encore en cours de développement, mais il intègre déjà quelques fonctionnalités de base comme :
+  Les fonctionnalités de base comme :
 
-  -Suivi de l’humeur et de l’énergie,
+  -Posibilité de faire des recherches par titre,
 
-  -Actions disponibles : nourrir, jouer, dormir,
-
-  -Réactions dynamiques selon l’état du Tamagotchi.</p><br>
+  -Posibilité de faire des recherches par nom de chaine.</p><br>
 
 
  Création de GIF en utilisant Pixel Brush.<br><br>
@@ -27,7 +26,6 @@ Bienvenue dans mon petit projet personnel ! J’ai commencé à développer une 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/Javascript-blue?logo=javascript&logoColor=white)
-![PB](https://img.shields.io/badge/PixelBrush-8F00FF?logo=pixelbrush&logoColor=white)
 
 
 ## 🔗Liens :
