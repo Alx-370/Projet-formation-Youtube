@@ -13,7 +13,7 @@ injecter du code HTML à partir de JavaScript avec des "function", et pouvoir fa
   -Posibilité de faire des recherches par nom de chaine.</p><br>
 
 
- Création de GIF en utilisant Pixel Brush.<br><br>
+<br><br>
 
 
 
