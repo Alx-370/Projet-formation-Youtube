@@ -14,7 +14,7 @@ injecter du code HTML à partir de JavaScript avec des "function", et pouvoir fa
 
 
 Envie d'essayer?
-https://alx-370.github.io/Projet-formation-Youtube/<br><br>
+https://alx-370.github.io/Projet-formation-YoutubeV1/<br><br>
 
 
 
