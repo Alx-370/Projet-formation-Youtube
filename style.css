@@ -1,0 +1,150 @@
+* {
+    background-color: #0f0f0f;
+    color: white;
+    font-size: 18px;
+    
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.block-input {
+    position: relative;
+    width: 500px;
+}
+
+.bar-de-recherche {
+    outline: none;
+    width: 600px;
+    height: 45px;
+    border-radius: 40px;
+    padding: 15px 45px 15px 15px;
+    border: 1px solid #5e5d5d;  
+}
+
+.bar-de-recherche:focus {
+    border: 2px solid #3498db;
+}
+
+.loupe-bouton {
+    position: absolute;
+    right: -90px;
+    top: 25%;
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+.logoPhaco {
+    width: 100px;
+    position: absolute;
+    left: -250px;
+    top: -70%;
+}
+
+#block-videos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 50px;
+    margin: auto;
+}
+
+.carte-video {
+    border-radius: 10px;
+    overflow: hidden;
+    width: 500px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.block-miniature {
+    position: relative;
+}
+
+.miniature {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.duree {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    background-color: rgba(0,0,0,0.75);
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.infos-video {
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.logo {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.texte-video h3 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.texte-video p {
+    margin: 4px 0 0;
+    font-size: 14px;
+    color: #ccc;
+}
+
+/*///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+@media screen and (max-width: 1000px) {
+    .formDeRecherche {
+        width: 100%;
+        align-items: center;
+    }
+
+    .block-input {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .logoPhaco {
+        position: static;
+        width: 100px;
+        margin-bottom: 10px;
+    }
+
+    .bar-de-recherche {
+        width: 100%;
+    }
+
+    .loupe-bouton {
+        position: absolute;
+        right: 5px;
+        top: 79%;
+    }
+
+    .block-input {
+        position: relative;
+    }
+}
+
