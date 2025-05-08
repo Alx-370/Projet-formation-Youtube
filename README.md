@@ -1,5 +1,5 @@
 # Projet Youtube Version 1.0
-<img src= "imgTamagotchi.png" width="150"/>
+<img src= "ProjetFormationYoutube.png" width="150"/>
 
 <p>Mini Projet : Mon Tamagotchi Virtuel
 Bienvenue dans mon petit projet personnel ! J’ai commencé à développer une version simplifiée d’un Tamagotchi — ce petit animal virtuel qu’on aimait tant dans les années 90/2000. L’idée : créer un compagnon numérique avec lequel on peut interagir, le nourrir, jouer avec lui et veiller à son bien-être.<br><br>
